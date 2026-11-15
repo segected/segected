@@ -14,35 +14,6 @@ segected@github
 🌱 Exploring server automation, VPN scripts, and the digital world
 ⚡ Tech stack: Python, Unreal Engine, PowerShell, Git
 🎧 Always coding with great music in the background
-Вот полностью готовый, единый код для твоего файла **`README.md`**. Никнейм везде заменён на **`segected`**, все чужие ссылки и лишние блоки удалены, а твои данные и проект по установке VPN аккуратно вписаны.
-
-Просто скопируй этот текст целиком, вставь в свой файл `README.md` на GitHub и сохрани:
-
-```markdown
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cutive+Mono&pause=1000&color=efadc9&center=true&vCenter=true&width=450&lines=segected's+page+<3)](https://git.io/typing-svg)
-
-<!---
-Show profile views
--->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=segected&color=ffd3d9&style=for-the-badge">
-</p> <br>
-
-<p>
-<img align="left" src="assets/profile_pic.jpg" width="300" /> 
-
-
-```
-
-## segected@github
-
-🏫 9th grade student, moving forward step by step
-💻 Building games with Unreal Engine 5 & Blueprints, and apps in Python
-🌱 Exploring server automation, VPN scripts, and the digital world
-⚡ Tech stack: Python, Unreal Engine, PowerShell, Git
-🎧 Always coding with great music in the background
-
-```
 </p>
 
 <br>
@@ -108,5 +79,3 @@ Generate top languages
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=segected&layout=compact&theme=pink" alt="Top Langs" />
   </a>
 </p>
-
-```
