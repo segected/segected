@@ -26,7 +26,7 @@ segected@github
 
 <br>
 
-<h2 align="center"> 🚀 🇲‌🇾‌ 🇵‌🇷‌🇴‌🇯‌🇪‌🇨‌🇹‌🇸‌ </h2>
+<h2 align="center"> UwU </h2>
 <p align="center">
   <img src="assets/repos_preview_cropped.gif" style="max-width: 100%;">
 </p>
