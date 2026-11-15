@@ -17,6 +17,7 @@ segected@github
 🌱 Exploring server automation, VPN scripts, and the digital world
 ⚡ Tech stack: Python, Unreal Engine, PowerShell, Git
 🎧 Always coding with great music in the background
+
   
 </p>
 
