@@ -9,11 +9,15 @@ Show profile views
 
 <p>
 <img align="left" src="assets/profile_pic.jpg" width="300" />
+
+
 segected@github
+
 💻 Building games with Unreal Engine 5 & Blueprints, and apps in Python
 🌱 Exploring server automation, VPN scripts, and the digital world
 ⚡ Tech stack: Python, Unreal Engine, PowerShell, Git
 🎧 Always coding with great music in the background
+  
 </p>
 
 <br>
